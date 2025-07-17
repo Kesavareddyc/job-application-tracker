@@ -15,9 +15,6 @@ A simple **Streamlit web app** to track your job applications with status, inter
 
 ---
 
-## 📸 Preview
-
-![alt text](image.png)
 
 ---
 
